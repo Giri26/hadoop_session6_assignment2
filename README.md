@@ -1,0 +1,1 @@
+# hadoop_session6_assignment2
